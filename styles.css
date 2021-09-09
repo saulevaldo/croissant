@@ -1,0 +1,40 @@
+body {
+  margin: 50px auto;
+  color: #f6eedf;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+h1,
+p,
+a {
+  margin: 40px auto;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #f57b51;
+  display: block;
+}
+
+h1 {
+  color: #d63447;
+}
+
+h4,
+p {
+  color: #d55b3e;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.contact-link {
+  margin: 250px auto;
+}
